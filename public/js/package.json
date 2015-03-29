@@ -1,0 +1,17 @@
+{
+  "name": "dev-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+  },
+  "author": "José Ángel Méndez Santiago",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^9.0.3",
+    "gulp": "^3.8.11",
+    "reactify": "^1.1.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {}
+}

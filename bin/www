@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+const config = require('./config');
+const Worker = require('./../worker');
+var worker = new Worker(config);
